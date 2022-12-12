@@ -3,7 +3,7 @@
 Pre requistes
 
 1. Java 8
-2. Maven to run throught cmd line
+2. Maven to run through cmd line
 
 Steps to run:
 
